@@ -37,7 +37,7 @@ class Persona:
 
 class Deportista:
   def __init__(self, deporte, añosPracticando):
-    self.__deporte = deporte 
+    self.__deporte = "Futbol"
     self.__añosPracticando = añosPracticando
 
     # Métodos para acceder a los atributos privados (getters)
